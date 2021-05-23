@@ -4,7 +4,7 @@
  </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/)](https://www.linkedin.com/in/guilhermeportella-1997a008/)
-<h3 align = "center"> Um apaixonado desenvolvedor de back-end do Brasil </h3>
+<h3 align = "center">A passionate back-end developer from Brazil</h3>
 
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeportella&show_icons=true&locale=en&layout=compact" alt = "guilhermeportella" /> </p>
