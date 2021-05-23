@@ -8,8 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/)](https://www.linkedin.com/in/guilhermeportella-1997a008/)
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilhermeportella-1997a008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilhermeportella-1997a008/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
