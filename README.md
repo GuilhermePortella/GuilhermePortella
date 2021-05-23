@@ -8,7 +8,7 @@
 ### About me
 <h3>A passionate back-end developer from Brazil</h3>
 I am a computer science student and a programming intern at IBM
-
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/)](https://www.linkedin.com/in/guilhermeportella-1997a008/)
 
 
