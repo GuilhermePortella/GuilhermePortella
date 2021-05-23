@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme Portella  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"></h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;">, I'm Guilherme Portella  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"></h1>
 
 ### About me
 <h3>A passionate back-end developer from Brazil</h3>
