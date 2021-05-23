@@ -1,8 +1,3 @@
-# Guilherme-Portella
-<p align="center">
-  <img src="https://github.com/GuilhermePortella/Guilherme-Portella/blob/main/NickName.png?raw=true" width="350">
- </p>
-
 <h1 align="center">Hi 👋, I'm Guilherme Portella</h1>
 
 ### About me
