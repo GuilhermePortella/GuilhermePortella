@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Portella</h1>
 
 ### About me
-<h3 align="center">A passionate back-end developer from Brazil</h3>
+<h3>A passionate back-end developer from Brazil</h3>
 I am a computer science student and a programming intern at IBM
 
 <h3 align="left">Connect with me:</h3>
