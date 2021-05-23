@@ -8,5 +8,4 @@
 
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeportella&show_icons=true&locale=en&layout=compact" alt = "guilhermeportella" /> </p>
-<br>
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&locale=en" alt = "guilhermeportella" /> </p>
