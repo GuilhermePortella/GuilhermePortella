@@ -10,7 +10,7 @@
 I am a computer science student and a programming intern at IBM
 
 <h3 align="left">Connect with me:</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/)]( https://www.linkedin.com/in/guilhermeportella-1997a008/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/)](https://www.linkedin.com/in/guilhermeportella-1997a008/)
 
 
 <h3 align="left">Languages and Tools:</h3>
