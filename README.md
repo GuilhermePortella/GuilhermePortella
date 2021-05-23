@@ -20,5 +20,3 @@ I am a computer science student and a programming intern at IBM
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeportella&show_icons=true&locale=en&layout=compact" alt="guilhermeportella" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&locale=en" alt="guilhermeportella" /></p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermePortella)](https://github.com/GuilhermePortella)
