@@ -2,7 +2,7 @@
 
 ### About me
 <h3>A passionate back-end developer from Brazil</h3>
-I am a computer science student and a programming intern at IBM
+I am a Computer Science student in the second year, I am an intern at IBM in the programming sector, passionate about video games and Back-End programming
 
 ------------------------------------------------------------------
 ### <h1>Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;"></h1>
