@@ -16,9 +16,8 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeportella&show_icons=true&locale=en&layout=compact" alt="guilhermeportella"/>
 <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&locale=en" alt="guilhermeportella"/>
-
+<img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeportella&show_icons=true&locale=en&layout=compact" alt="guilhermeportella"/>
 
 
 ------------------------------------------------------------------
