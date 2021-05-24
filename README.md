@@ -13,6 +13,9 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
 
 <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeportella&show_icons=true&locale=en&layout=compact" alt="guilhermeportella"/>
 <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&locale=en" alt="guilhermeportella"/>
+
+
+
 ------------------------------------------------------------------
  ##   Here is a random joke that'll make you laugh!
  ![Jokes Card](https://readme-jokes.vercel.app/api)
