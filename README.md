@@ -4,7 +4,7 @@
 <h5>A passionate back-end developer from Brazil</h5>
 I am a Computer Science student in the second year, I am an intern at IBM in the programming sector, passionate about video games and Back-End programming
 
-------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 
 ### <h1>Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;"></h1>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilhermeportella-1997a008/)
