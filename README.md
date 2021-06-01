@@ -22,7 +22,11 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
 
 ----------------------------------------------------------------------
 
- ![Snake animation](https://github.com/GuilhermePortella/dist/github-contribution-grid-snake.svg)
+
+
+![Snake animation](https://github.com/GuilhermePortella/guilhermeportella/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 ----------------------------------------------------------------------
