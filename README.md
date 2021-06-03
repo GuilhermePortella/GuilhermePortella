@@ -22,7 +22,7 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
 
 
 
-----------------------------------------------------------------------
+---------------------------------------------------------------------
  ##   Here is a random joke that'll make you laugh!
  ![Jokes Card](https://readme-jokes.vercel.app/api)
  
