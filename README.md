@@ -6,9 +6,11 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
 
 ------------------------------------------------------------------------------------------------------
 
-### <h1>Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;"></h1>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilhermeportella-1997a008/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilhermeportella2@gmail.com)](mailto:guilhermeportella2@gmail.com)
+<h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;"></h2>
+
+<a href="mailto: guilhermeportella2@gmail.com">
+ <img src="https://img.shields.io/badge/-guilhermeportella2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: guilhermeportella2@gmail.com"/>
+  </a>
 
 
 <h2 align="center">
