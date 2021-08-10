@@ -17,14 +17,33 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://help.ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
-<img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeportella&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" alt="guilhermeportella"/>
 
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&locale=en" alt="guilhermeportella"/>
+<h2 align="center">
+  Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&theme=radical&line_height=27">
+  <img width="300px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeportella&theme=radical&line)](https://github.com/guilhermeportella"     />
+ </p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=guilhermeportella&theme=redical">
+</p> 
 
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella)](https://git.io/streak-stats)
+
+
+
+
 
 ------------------------------------------------------------------------------------------------------
  ##   Here is a random joke that'll make you laugh!
