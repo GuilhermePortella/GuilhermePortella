@@ -12,7 +12,7 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
   <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: guilhermeportella2@gmail.com"/>
  </a>
  <a href="https://www.linkedin.com/in/guilhermeportella-1997a008/">
- <img src="https://img.shields.io/badge/-Guilherme Portella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/"/>
+ <img src="https://img.shields.io/badge/-guilhermeportella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/"/>
 </a>
 </p>
 
