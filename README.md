@@ -8,11 +8,11 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
 
 <h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;"></h2>
 <p align="center">
- <a>
-  <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: guilhermeportella2@gmail.com"/>
+ <a href="mailto: guilhermeportella2@gmail.com">
+  <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeportella2@gmail.com"/>
  </a>
  <a href="https://www.linkedin.com/in/guilhermeportella-1997a008/">
- <img src="https://img.shields.io/badge/-guilhermeportella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/"/>
+ <img src="https://img.shields.io/badge/-Guilherme Portella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/"/>
 </a>
 </p>
 
