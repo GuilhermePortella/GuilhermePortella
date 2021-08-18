@@ -27,9 +27,6 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeportella&theme=radical&line_height=34)](https://github.com/guilhermeportella"/>
  </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella&show_icons=true&locale=en&layout=compact&theme=radical&line_height=34" />
-</p> 
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=guilhermeportella&theme=redical">
