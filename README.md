@@ -49,5 +49,3 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
  ![Jokes Card](https://readme-jokes.vercel.app/api)
  
  ![Snake animation](https://github.com/GuilhermePortella/guilhermeportella/blob/output/github-contribution-grid-snake.svg)
-
- ![Snake animation](https://github.com/GuilhermePortella/guilhermeportella/blob/output/github-contribution-grid-snake.svg)
