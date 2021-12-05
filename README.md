@@ -4,7 +4,7 @@
 <h5>A back-end developer from Brazil</h5>
 I am a Computer Science student in the second year, I am an intern at IBM in the programming sector, passionate about video games and Back-End programming
 
-------------------------------------------------------------------------------------------------------
+
 
 <h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;"></h2>
 <p align="center">
@@ -19,8 +19,6 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
 <h2 align="center">
   Stats
 </h2>
- 
-<br>
 
 <p align = "center">
  <img  src = "https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&theme=radical&line_height=40">
@@ -35,17 +33,9 @@ I am a Computer Science student in the second year, I am an intern at IBM in the
  <img src="https://activity-graph.herokuapp.com/graph?username=guilhermeportella&theme=redical">
 </p> 
 
-
-
-
-
-
-
-
-
 ------------------------------------------------------------------------------------------------------
+
  ###   Here is a random joke that'll make you laugh! 
  
  ![Jokes Card](https://readme-jokes.vercel.app/api)
- 
  ![Snake animation](https://github.com/GuilhermePortella/guilhermeportella/blob/output/github-contribution-grid-snake.svg)
