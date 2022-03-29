@@ -2,8 +2,8 @@
 
 ### About me
 <h5>A back-end developer from Brazil</h5>
-I am a Computer Science student in the third year, 
-I'm at IBM as a FullStack intern, working with Java, NodeJs and JavaScript, passionate about video games and Back-End programming
+
+I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Programmer, working with Java, NodeJs and JavaScript, passionate about video games and Back-End programming
 
 
 
