@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="29px" style="max-width:100%;">, I'm Guilherme Portella  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="24px" style="max-width:100%;"></h1>
 
-### About me
+### About me  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px" style="max-width:100%;">
 <h5>A back-end developer from Brazil</h5>
 
 I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Programmer, working with Java, NodeJs and JavaScript, passionate about video games and Back-End programming
