@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;">, I'm Guilherme Portella  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"></h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="29px" style="max-width:100%;">, I'm Guilherme Portella  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="24px" style="max-width:100%;"></h1>
 
 ### About me
 <h5>A back-end developer from Brazil</h5>
@@ -7,7 +7,7 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
 
 
 
-<h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;"></h2>
+<h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" height="32px" style="max-width:100%;"></h2>
 <p align="center">
  <a href="mailto: guilhermeportella2@gmail.com">
   <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeportella2@gmail.com"/>
@@ -29,10 +29,6 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella&show_icons=true&locale=en&layout=compact&theme=radical&line_height=34" />
 </p>
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=guilhermeportella&theme=redical">
-</p> 
 
 ------------------------------------------------------------------------------------------------------
 
