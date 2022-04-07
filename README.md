@@ -29,12 +29,3 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella&show_icons=true&locale=en&layout=compact&theme=radical&line_height=34" />
 </p>
-
-------------------------------------------------------------------------------------------------------
-
- ###   Here is a random joke that'll make you laugh! 
- 
- ![Jokes Card](https://readme-jokes.vercel.app/api)
- 
- 
-<!--- ![Snake animation](https://github.com/GuilhermePortella/guilhermeportella/blob/output/github-contribution-grid-snake.svg)-->
