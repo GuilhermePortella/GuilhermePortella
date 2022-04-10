@@ -22,10 +22,10 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
 </h2>
 
 <p align = "center">
- <img  src = "https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&theme=radical&line_height=40">
- <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeportella&theme=radical&line_height=34)](https://github.com/guilhermeportella"/>
+ <img  src = "https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&theme=radical&line" height="210px">
+ <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeportella&theme=radical&line)](https://github.com/guilhermeportella" height="210px"/>
  </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella&show_icons=true&locale=en&layout=compact&theme=radical&line_height=34" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella&show_icons=true&locale=en&layout=compact&theme=radical&line" height="200px"/>
 </p>
