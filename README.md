@@ -7,7 +7,7 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
 
 
 
-<h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" height="32px" style="max-width:100%;"></h2>
+<h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" height="32px" style="max-width:90%;"></h2>
 <p align="center">
  <a href="mailto: guilhermeportella2@gmail.com">
   <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeportella2@gmail.com"/>
@@ -27,5 +27,6 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
  </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella&show_icons=true&locale=en&layout=compact&theme=dark" height="200px"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella&show_icons=true&locale=en&layout=compact&theme=dark&line" height="210px"/>
+ 
 </p>
