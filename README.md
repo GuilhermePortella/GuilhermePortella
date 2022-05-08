@@ -11,9 +11,9 @@
 
 I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Programmer, working with Java, NodeJs and JavaScript, passionate about video games and Back-End programming
 
+</br>
 
-
-<h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" height="32px" style="max-width:90%;"></h2>
+<h2 align="center">Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
 <p align="center">
  <a href="mailto: guilhermeportella2@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeportella2@gmail.com"/>
