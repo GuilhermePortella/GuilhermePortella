@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="29px" style="max-width:100%;">, I'm Guilherme Portella  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="24px" style="max-width:100%;"></h1>
 
-<a href="https://github.com/GuilhermePortella/GuilhermePortella" rel="nofollow">
+<a href="https://github.com/GuilhermePortella/" rel="nofollow" target="_blank">
  <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
 </a>
 
