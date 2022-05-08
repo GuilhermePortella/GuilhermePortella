@@ -1,5 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="29px" style="max-width:100%;">, I'm Guilherme Portella  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="24px" style="max-width:100%;"></h1>
 
+<a href="https://github.com/GuilhermePortella/GuilhermePortella" rel="nofollow">
+ <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
+</a>
+
+
+
 ### About me  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px" style="max-width:100%;">
 <h5>A back-end developer from Brazil</h5>
 
