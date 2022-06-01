@@ -25,7 +25,7 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
 </p>
 
 <h2 align="center">
-  Stats
+  Stats :chart_with_upwards_trend:
 </h2>
 
 <p align = "center">
