@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="29px" style="max-width:100%;">, I'm Guilherme Portella  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="24px" style="max-width:100%;"></h1>
+<h1 align="center">Hi, I'm Guilherme Portella :vulcan_salute: </h1>
 
 
 
  <div align="center">
 
-### About me  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24px" style="max-width:100%;">
+### About me :computer:
 <h5>A back-end developer from Brazil</h5>
 
 I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Programmer, working with Java, NodeJs and JavaScript, passionate about video games and Back-End programming
@@ -14,7 +14,7 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
 
 </br>
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with me :telephone_receiver: </h2>
 <p align="center">
  <a href="mailto: guilhermeportella2@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeportella2@gmail.com"/>
