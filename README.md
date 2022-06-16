@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Guilherme Portella :vulcan_salute: </h1>
+<h1 align="center">Hi, I'm Guilherme Portella :wave: </h1>
 
 
 
