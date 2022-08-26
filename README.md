@@ -16,7 +16,7 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
 
 <h2 align="center">Connect with me :telephone_receiver: </h2>
 <p align="center">
- <a href="mailto: guilhermeportella2@gmail.com" target="_blank">
+ <a href="mailto:guilhermeportella2@gmail.com">
   <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeportella2@gmail.com"/>
  </a>
  <a href="https://www.linkedin.com/in/myprofileguilhermeportella/">
