@@ -32,8 +32,3 @@ I'm a third year Computer Science student, I'm at IBM as a FullStack Junior Prog
  <img  src = "https://github-readme-stats.vercel.app/api?username=guilhermeportella&show_icons=true&theme=dark" height="210px">
  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeportella&theme=dark&line)](https://github.com/guilhermeportella" height="210px"/>
  </p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeportella&show_icons=true&locale=en&layout=compact&theme=dark" height="210px" />
- 
-</p>
