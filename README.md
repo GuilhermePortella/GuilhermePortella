@@ -9,7 +9,9 @@
 
 PT-BR
 Estudante de Ciência da Computação no último ano e atuo como desenvolvedor FullStack/mobile na IBM. Trabalho como desenvolvimento mobile, com foco em Java. Experiencia com Java, Node.js e JavaScript, reactNative. Sou um entusiasta de video games e emuladores. Adoro explorar recursos avançados do Linux e novas distros e me divirto escrevendo scripts e codigos inuteis :joy:.
+ 
  <br>
+ 
 EN-US I'm a final year Computer Science student and I work as a FullStack/mobile developer at IBM. My main focus is on Java development for mobile applications. I have experience with Java, Node.js, JavaScript, and React Native. I'm an enthusiast of video games and emulators. I enjoy exploring advanced features of Linux and trying out new distributions. Additionally, I have fun writing scripts and experimenting with useless code :joy:.
 
 
