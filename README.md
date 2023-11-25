@@ -1,21 +1,24 @@
 <h1 align="center">Hi, I'm Guilherme Portella :wave: </h1>
 
+### About me :computer: 
 
+### 👨‍💻 Backend Developer | Computer Science Graduate 🎓 | Postgraduate Student in Information Security (Red Team) 🛡️ | IBM Developer 💼
 
- <div align="center">
+<div aling=" center">
+👨‍💻 Backend Developer with over 3 years of experience.
 
-### About me :computer:
-### A back-end developer from Brazil
+🔧 Technologies and Tools: Java, JavaScript, Node.js, Docker, Kubernetes, NoSQL, Angular, among others.
 
-PT-BR
-Estudante de Ciência da Computação no último ano e atuo como desenvolvedor FullStack/mobile na IBM. Trabalho como desenvolvimento mobile, com foco em Java. Experiencia com Java, Node.js e JavaScript, reactNative. Sou um entusiasta de video games e emuladores. Adoro explorar recursos avançados do Linux e novas distros e me divirto escrevendo scripts e codigos inuteis :joy:.
- 
- <br>
- 
-EN-US I'm a final year Computer Science student and I work as a FullStack/mobile developer at IBM. My main focus is on Java development for mobile applications. I have experience with Java, Node.js, JavaScript, and React Native. I'm an enthusiast of video games and emulators. I enjoy exploring advanced features of Linux and trying out new distributions. Additionally, I have fun writing scripts and experimenting with useless code :joy:.
+🎓 Education: Graduated in Computer Science, currently starting a postgraduate course in Information Security with a focus on red team operations.
 
+💼 Professional Experience: I am a part of the development team at IBM, working on a major mobile banking application for a client. My role involves migrating legacy code to new, current, and scalable code.
 
- </div>
+📚 Commitment to Learning: I am passionate about challenges and believe that continuous learning is the key to success. I am always exploring new technologies and methodologies, aiming to enhance my skills daily.
+
+Feel free to explore my repositories and share ideas. Let's learn and grow together! 🚀✨
+
+</div>
+
  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeportella&theme=dark&line)](https://github.com/guilhermeportella" height="210px" align = "right"/>
 
 </br>
