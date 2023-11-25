@@ -2,7 +2,7 @@
 
 ### About me :computer: 
 
-### 👨‍💻 Backend Developer | Computer Science Graduate 🎓 | Postgraduate Student in Cyber Security (Red Team) 🛡️ | IBM Developer 💼
+### 👨‍💻 Backend Developer | Computer Science Graduate 🎓 | Postgraduate Student in CyberSecurity (Red Team) 🛡️ | IBM Developer 💼
 
 <div aling=" center">
 
