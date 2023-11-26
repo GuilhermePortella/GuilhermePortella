@@ -18,6 +18,11 @@
 
 Feel free to explore my repositories and share ideas.
 
+### Certificates
+
+- [credly profile Developer](https://www.credly.com/users/guilherme-portella.02cb93c9/badges)
+- [credly profile Associate](https://www.credly.com/users/guilherme-portella/badges)
+
 </div>
 
  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeportella&theme=dark&line)](https://github.com/guilhermeportella" height="210px" align = "right"/>
