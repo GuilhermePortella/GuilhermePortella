@@ -2,7 +2,7 @@
 
 ### About me :computer: 
 
- ### Backend Developer 👨‍💻 | Bachelor of Computer Science 🎓 | Postgraduate in Information Security (Red Team) ️🛡️ | IBM Developer 💼
+ ### Backend Developer 👨‍💻 | Bachelor of Computer Science 🎓 | Postgraduate in CyberSecurity (Red Team) ️🛡️ | IBM Developer 💼
 
 <div aling=" center">
 
@@ -10,7 +10,7 @@
 
 - Skills and Tools: Java, C, JavaScript, Node.js, Docker, Kubernetes, NoSQL, Angular, and others.
 
-- Education: Bachelor of Computer Science. Currently pursuing a postgraduate degree in Information Security with a focus on Red Team operations (ethical hacking).
+- Education: Bachelor of Computer Science. Currently pursuing a postgraduate degree in CyberSecurity with a focus on Red Team operations (ethical hacking).
 
 - Professional Experience: I am part of the development team at IBM, working on a large mobile banking application for a client. My role involves migrating legacy code to new, current, and scalable code with significant improvements for the end customer.
 
