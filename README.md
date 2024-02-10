@@ -20,7 +20,7 @@ Feel free to explore my repositories and share ideas.
 
 ### Certificates
 
-- [credly profile Developer](https://www.credly.com/users/guilherme-portella.02cb93c9/badges)
+- [credly profile Developer](https://www.credly.com/users/guilherme-portella.02cb93c9/badges?sort=-state_updated_at&page=1)
 - [credly profile Associate](https://www.credly.com/users/guilherme-portella/badges)
 
 </div>
