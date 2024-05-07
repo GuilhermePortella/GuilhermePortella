@@ -29,8 +29,8 @@ Feel free to explore my repositories and share ideas.
 
 </br>
 
-<h2 align="center">Connect with me :telephone_receiver: </h2> 
-<p align="center">
+<h3 align="left">Connect with me :telephone_receiver: </h3> 
+<p align="left">
  <a href="mailto:guilhermeportella2@gmail.com">
   <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeportella2@gmail.com"/>
  </a>
