@@ -1,22 +1,22 @@
 <h1 align="center">Hi, I'm Guilherme Portella :wave: </h1>
 
-### About me :computer: 
+About Me :computer:
 
- ### Backend Developer 👨‍💻 | Bachelor of Computer Science 🎓 | Postgraduate in CyberSecurity (Red Team) ️🛡️ | IBM Developer 💼
+Backend Developer 👨‍💻 | Bachelor's in Computer Science 🎓 | Postgraduate in Cybersecurity (Red Team) 🛡️ | IBM Developer 💼
 
-<div aling=" center">
 
-- Backend Developer with 4+ years of experience.
+ 
+- Backend Developer with over 4 years of experience.
 
-- Skills and Tools: Java, C, JavaScript, Node.js, Docker, Kubernetes, NoSQL, Angular, and others.
+- Skills and Tools: Java, C, JavaScript, Node.js, Docker, Kubernetes, NoSQL, Angular, and more.
 
-- Education: Bachelor of Computer Science. Currently pursuing a postgraduate degree in CyberSecurity with a focus on Red Team operations (ethical hacking).
+- Education: Bachelor's in Computer Science. Currently pursuing a postgraduate degree in Cybersecurity with a focus on Red Team operations (ethical hacking).
 
-- Professional Experience: I am part of the development team at IBM, working on a large mobile banking application for a client. My role involves migrating legacy code to new, current, and scalable code with significant improvements for the end customer.
+- Professional Experience: I am part of the development team at IBM, working on a large-scale mobile banking application for a client. My role involves migrating legacy code to modern, scalable solutions with significant improvements for the end customer.
 
-- Commitment to Learning: I am passionate about challenges and believe that continuous learning is the key to success. I am always exploring new technologies and methodologies, aiming to enhance my skills daily.
+- Commitment to Learning: I am passionate about taking on challenges and believe that continuous learning is the key to success. I am constantly exploring new technologies and methodologies, aiming to improve my skills every day.
 
-Feel free to explore my repositories and share ideas.
+Feel free to explore my repositories and share your ideas!
 
 ### Certificates
 
