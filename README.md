@@ -2,10 +2,8 @@
 
 About Me :computer:
 
-Backend Developer 👨‍💻 | Bachelor's in Computer Science 🎓 | Postgraduate in Cybersecurity (Red Team) 🛡️ | IBM Developer 💼
+<h3> Backend Developer 👨‍💻 | Bachelor's in Computer Science 🎓 | Postgraduate in Cybersecurity (Red Team) 🛡️ | IBM Developer 💼 </h3>
 
-
- 
 - Backend Developer with over 4 years of experience.
 
 - Skills and Tools: Java, C, JavaScript, Node.js, Docker, Kubernetes, NoSQL, Angular, and more.
