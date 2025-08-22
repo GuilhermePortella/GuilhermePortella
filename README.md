@@ -2,15 +2,14 @@
 
 About Me :computer:
 
-<h3> Backend Developer 👨‍💻 | Bachelor's in Computer Science 🎓 | Postgraduate in Cybersecurity (Red Team) 🛡️ | IBM Developer 💼 </h3>
+<h3> Backend Developer 👨‍💻 | Bachelor's in Computer Science 🎓 | Postgraduate in Cybersecurity (Red Team) 🛡️ | ex-IBM Developer 💼| Itau Software Engineer
+ </h3>
 
-- Backend Developer with over 4 years of experience.
+- Backend Developer with over 5 years of experience.
 
 - Skills and Tools: Java, C, JavaScript, Node.js, Docker, Kubernetes, NoSQL, Angular, and more.
 
-- Education: Bachelor's in Computer Science. Currently pursuing a postgraduate degree in Cybersecurity with a focus on Red Team operations (ethical hacking).
-
-- Professional Experience: I am part of the development team at IBM, working on a large-scale mobile banking application for a client. My role involves migrating legacy code to modern, scalable solutions with significant improvements for the end customer.
+- Education: Bachelor's in Computer Science. Currently pursuing a postgraduate degree in Cybersecurity with a focus on Red Team operations (ethical hacking), Pentest and hardware hacking.
 
 - Commitment to Learning: I am passionate about taking on challenges and believe that continuous learning is the key to success. I am constantly exploring new technologies and methodologies, aiming to improve my skills every day.
 
