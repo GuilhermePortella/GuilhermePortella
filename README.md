@@ -5,13 +5,13 @@ About Me :computer:
 <h3> Backend Developer 👨‍💻 | Bachelor's in Computer Science 🎓 | Postgraduate in Cybersecurity (Red Team) 🛡️ | ex-IBM Developer 💼| Itau Software Engineer
  </h3>
 
-- Backend Developer with over 5 years of experience.
+- Backend Developer with over 5 years of experience, specialized in modernization and migration of legacy systems to scalable and resilient architectures. Strong background in Java, Spring Boot, microservices, and cloud environments (AWS/Azure), with proven impact in banking and mission-critical projects.
 
-- Skills and Tools: Java, C, JavaScript, Node.js, Docker, Kubernetes, NoSQL, Angular, and more.
+- Skills and Tools: Java, Spring Boot, C, JavaScript, Node.js, Docker, Kubernetes, SQL/NoSQL (MySQL, MongoDB, Redis), Angular, Kafka, CI/CD, Observability (Splunk, Datadog, Dynatrace).
 
-- Education: Bachelor's in Computer Science. Currently pursuing a postgraduate degree in Cybersecurity with a focus on Red Team operations (ethical hacking), Pentest and hardware hacking.
+- Education: Bachelor's in Computer Science. Currently pursuing a postgraduate degree in Cybersecurity with a focus on Red Team operations (ethical hacking, pentest, hardware hacking).
 
-- Commitment to Learning: I am passionate about taking on challenges and believe that continuous learning is the key to success. I am constantly exploring new technologies and methodologies, aiming to improve my skills every day.
+- Commitment to Learning: Passionate about tackling complex challenges and driving innovation. I believe continuous learning and knowledge sharing are key to professional growth, and I am constantly exploring new technologies and methodologies to improve both technical depth and delivery excellence.
 
 Feel free to explore my repositories and share your ideas!
 
