@@ -29,6 +29,8 @@ Currently pursuing a postgraduate degree in Cybersecurity (Red Team), strengthen
 
 - **B.Sc. in Computer Science**
 - **Postgraduate in Cybersecurity (Red Team)** — in progress
+- **LL.B. in Law (Brazil)**
+- **Technical Program in Space Observation & Telescope Assembly**
 
 ---
 
