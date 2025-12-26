@@ -42,8 +42,8 @@ Currently pursuing a postgraduate degree in Cybersecurity (Red Team), strengthen
 ## Contact
 
 <p align="left">
-  <a href="mailto:guilhermeportella2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-guilhermeportella2%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:guilhermeportella.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-guilhermeportella.dev@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/myprofileguilhermeportella/">
     <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Portella-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
