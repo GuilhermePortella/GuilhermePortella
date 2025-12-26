@@ -1,37 +1,56 @@
-<h1 align="center">Hi, I'm Guilherme Portella :wave: </h1>
-
-About Me :computer:
-
-<h3> Backend Developer 👨‍💻 | Bachelor's in Computer Science 🎓 | Postgraduate in Cybersecurity (Red Team) 🛡️ | ex-IBM Developer 💼| Itau Software Engineer
- </h3>
-
-- Backend Developer with over 5 years of experience, specialized in modernization and migration of legacy systems to scalable and resilient architectures. Strong background in Java, Spring Boot, microservices, and cloud environments (AWS/Azure), with proven impact in banking and mission-critical projects.
-
-- Skills and Tools: Java, Spring Boot, C, JavaScript, Node.js, Docker, Kubernetes, SQL/NoSQL (MySQL, MongoDB, Redis), Angular, Kafka, CI/CD, Observability (Splunk, Datadog, Dynatrace).
-
-- Education: Bachelor's in Computer Science. Currently pursuing a postgraduate degree in Cybersecurity with a focus on Red Team operations (ethical hacking, pentest, hardware hacking).
-
-- Commitment to Learning: Passionate about tackling complex challenges and driving innovation. I believe continuous learning and knowledge sharing are key to professional growth, and I am constantly exploring new technologies and methodologies to improve both technical depth and delivery excellence.
-
-Feel free to explore my repositories and share your ideas!
-
-### Certificates
-
-- [Credly profile Developer](https://www.credly.com/users/guilherme-portella.02cb93c9/badges?sort=-state_updated_at&page=1)
-- [Credly profile Associate](https://www.credly.com/users/guilherme-portella/badges)
-
-</div>
-
- <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeportella&theme=dark&line)](https://github.com/guilhermeportella" height="210px" align = "right"/>
-
-</br>
-
-<h3 align="left">Connect with me :telephone_receiver: </h3> 
-<p align="left">
- <a href="mailto:guilhermeportella2@gmail.com">
-  <img src="https://img.shields.io/badge/-Guilherme Portella-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeportella2@gmail.com"/>
- </a>
- <a href="https://www.linkedin.com/in/myprofileguilhermeportella/">
- <img src="https://img.shields.io/badge/-Guilherme Portella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeportella-1997a008/" target="_blank"/>
-</a>
+<h1 align="center">Guilherme Portella</h1>
+<p align="center">
+  Backend Software Engineer • Java/Spring • Microservices • Cloud (AWS/Azure) • Financial Services
 </p>
+
+---
+
+## Profile
+
+Backend Software Engineer with 5+ years of experience delivering and modernizing mission-critical systems in the financial sector. Specialized in Java and Spring Boot, microservices, cloud migration (AWS/Azure), and resilient architectures, with strong focus on reliability, scalability, and clean engineering practices.
+
+Currently pursuing a postgraduate degree in Cybersecurity (Red Team), strengthening hands-on knowledge in offensive security, vulnerability assessment, and security-minded engineering.
+
+---
+
+## Core Competencies
+
+- **Backend Engineering:** Java, Spring Boot, REST APIs, microservices, integration patterns  
+- **Cloud & Containers:** AWS, Azure, Docker, Kubernetes  
+- **Data:** SQL/NoSQL (MySQL, MongoDB, Redis)  
+- **Messaging & Streaming:** Kafka  
+- **Delivery & Quality:** CI/CD, automated testing, versioning, code quality practices  
+- **Observability:** Splunk, Datadog, Dynatrace  
+- **Additional:** JavaScript/Node.js, Angular, C
+
+---
+
+## Education
+
+- **B.Sc. in Computer Science**
+- **Postgraduate in Cybersecurity (Red Team)** — in progress
+
+---
+
+## Certifications
+
+- [Credly (Developer)](https://www.credly.com/users/guilherme-portella.02cb93c9/badges?sort=-state_updated_at&page=1)
+- [Credly (Associate)](https://www.credly.com/users/guilherme-portella/badges  )
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="mailto:guilhermeportella2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-guilhermeportella2%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/myprofileguilhermeportella/">
+    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Portella-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> Repositories are organized by study projects, architecture references, and production-grade experiments.  
+> If you want to discuss architecture, engineering practices, or collaboration, feel free to reach out.
